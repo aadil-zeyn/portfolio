@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihal Avulan</h1>
-<h3 align="center">A Self taught full stack developer and UI/UX Designer.</h3>
+<h1 align="center">Hi 👋, I'm Aadil</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-a&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-a" /> </p>
 
@@ -7,9 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nihal-a.github.io/](https://nihal-a.github.io/)
-
-- 📫 How to reach me **nihalavulan1@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
